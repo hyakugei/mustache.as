@@ -1,0 +1,10 @@
+THis is an actionscript 3 port of the javascript port of the ruby mustache template engine. 
+
+http://mustache.github.com/
+
+
+Here is the javascript repp:
+http://github.com/janl/mustache.js
+
+And here is the ruby repp:
+http://github.com/defunkt/mustache
